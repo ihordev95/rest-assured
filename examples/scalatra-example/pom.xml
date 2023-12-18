@@ -79,7 +79,7 @@
         <dependency>
             <groupId>net.liftweb</groupId>
             <artifactId>lift-json_${scalatra.scala.version}</artifactId>
-            <version>3.4.3</version>
+            <version>3.5.0</version>
         </dependency>
         <dependency>
             <groupId>javax.servlet</groupId>
